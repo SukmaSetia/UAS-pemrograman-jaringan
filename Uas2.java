@@ -5,7 +5,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
-public class OrtuDns {
+public class Uas2 {
 
     // Fungsi untuk mendapatkan token API key
     public static String getApiKey(String username, String password) {
