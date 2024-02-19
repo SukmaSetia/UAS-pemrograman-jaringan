@@ -91,7 +91,7 @@ public class Uas2 {
         try {
             // Data login (ganti sesuai kebutuhan)
             String username = "362201011";
-            String password = "pokemon";
+            String password = "sukmasetia233";
             // Mendapatkan token API key dengan fungsi baru
             String apiKey = getApiKey(username, password);
 
